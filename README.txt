@@ -4,4 +4,8 @@ This class is largely research based, and revolves around writing python routine
 
 The final project is a 7 week long research project. The topic I chose to pursue is named "Fiber Clustering and Other Approaches to Macrostructure", a, where I explore techniques to clustering fibers and recovering fiber tracts. 
 
-The papers I extensively used are put within the "Paper archives" folder. 
+The papers I extensively used are placed within the "Paper archives" folder. 
+
+Further work done by my professor can be found in this following repository: 
+
+https://github.com/jadrian/mipy
