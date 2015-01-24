@@ -1,0 +1,9 @@
+ReadMe for ImportantTrk
+Author- Zach Lynn
+This folder contains the important trk and nii files that we used.
+
+test.nii is the Nifti file that we used for pretty much everything
+dti.trk is the complete tractography data set for test.nii
+longFibers.trk is the subset of dti.trk that we sent to Jadrian for clustering
+jadrianSubSet.trk is the subset of fibers within longFibers.trk that Jadrian
+actually clustered

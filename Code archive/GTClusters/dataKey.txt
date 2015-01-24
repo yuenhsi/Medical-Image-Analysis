@@ -1,0 +1,11 @@
+Data Storage Code
+0 = arcuate-l
+1 = cc-ant
+2 = cc-sup
+3 = cingulum-l
+4 = cingulum-r
+5 = CST-ant
+6 = CST-post-l
+7 = CST-post-m
+8 = forceps-major
+9 = forceps-minor

@@ -1,0 +1,19 @@
+ReadMe
+This folder contains all of our data and current versions of our code.
+
+Folders
+Data contains txt files of clusterings, subsets and data
+ImportantTrk contains several important trk and nii files
+GTClusters contains the ground truth clustering trk files
+Rough/Obsolete Code contains code that we did not implement or was not used by clusterDataCollector
+
+Files
+trackFilter2 took the complete set of curves and filtered out long and short curves
+getJadrianCluster obtained the ground truth clustering and indices of the curves that were clustered
+agglomCluster05 performs single-linkage agglomerative clustering and constructs a similarity matrix
+specCluster performs spectral clustering
+clusterEvaluation compares clusterings using the Rand and Ajusted Rand Index
+
+clusterDataCollector puts it all together
+
+-Yuen Hsi
