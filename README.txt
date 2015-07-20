@@ -6,6 +6,6 @@ I chose to persue a topic regarding fiber clustering and macrostructure, and exp
 
 The papers I referenced are placed within the "Paper archives" folder. 
 
-Further work done by my professor can be found in this following repository: 
+Further extensive work done by my supervisor may be seen in the following repository, 
 
-https://github.com/jadrian/mipy
+https://github.com/jadrian/mipy. 
